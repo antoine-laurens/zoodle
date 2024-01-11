@@ -1,0 +1,11 @@
+.rightButton {
+    flex: 1;
+}
+
+.middleButton {
+    flex: 2;
+}
+
+.leftButton {
+    flex: 1;
+}

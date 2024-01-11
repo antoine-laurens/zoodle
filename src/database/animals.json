@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Dauphin",
+    "milieuDeVie": "aquatique",
+    "locomoteur": "nageoire",
+    "cutane": "poils"
+  },
+  {
+    "id": 2,
+    "name": "Thon",
+    "milieuDeVie": "aquatique",
+    "locomoteur": "nageoire",
+    "cutane": "ecailles"
+  },
+  {
+    "id": 3,
+    "name": "Chat",
+    "milieuDeVie": "terestre",
+    "locomoteur": "patte",
+    "cutane": "poils"
+  },
+  {
+    "id": 4,
+    "name": "Aigle",
+    "milieuDeVie": "Air",
+    "locomoteur": "aile",
+    "cutane": "plumes"
+  }
+]

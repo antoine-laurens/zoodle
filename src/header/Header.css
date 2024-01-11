@@ -1,0 +1,15 @@
+.header > button {
+    border-radius: 10px;
+    float: right;
+    background-color: white;
+    border-color: black;
+}
+
+.header > button:hover {
+    background-color: silver;
+}
+
+.buttonModal {
+    height: 30px;
+    width: 30px;
+}
